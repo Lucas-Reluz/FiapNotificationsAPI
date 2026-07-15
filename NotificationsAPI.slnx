@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NotificationsAPI.Api/NotificationsAPI.Api.csproj" />
+    <Project Path="src/NotificationsAPI.Application/NotificationsAPI.Application.csproj" />
+    <Project Path="src/NotificationsAPI.Domain/NotificationsAPI.Domain.csproj" />
+    <Project Path="src/NotificationsAPI.Infrastructure/NotificationsAPI.Infrastructure.csproj" />
+  </Folder>
+</Solution>
